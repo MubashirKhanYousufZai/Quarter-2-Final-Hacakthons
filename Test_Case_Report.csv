@@ -1,0 +1,4 @@
+Test Case ID,Feature,Test Steps,Expected Result,Actual Result,Status,Remarks
+TC001,Login Page,Enter valid credentials & click Login,User logs in successfully,User logs in successfully,Pass,N/A
+TC002,Signup Page,Enter valid details & click Signup,User account created successfully,User account created successfully,Pass,N/A
+TC003,Cart Functionality,Add item to cart & proceed to checkout,Item added to cart & checkout successful,Item added to cart & checkout successful,Pass,N/A
